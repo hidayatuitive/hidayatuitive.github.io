@@ -388,28 +388,6 @@ header .navbar a:hover{
     margin:.5rem 0;
 }
 
-.footer{
-    padding:2.5rem;
-    font-size: 2rem;
-    color:#666;
-    background:#fff;
-    text-align: center;
-}
-
-.footer span{
-    color:var(--green);
-}
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries  */
 @media (max-width:991px){
